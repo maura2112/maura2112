@@ -1,5 +1,5 @@
-<h1 align="center">こんにちは 私はモーラです</h1>
-<h3 align="center">ベトナムから来たプログラマーです</h3>
+<h1 align="center">Bùi Quang Trường</h1>
+<h3 align="center">Tôi là 2 cột ăng-ten của Pamela</h3>
 
 - 🌱 I’m currently learning **.NET, Unity, Java**
 

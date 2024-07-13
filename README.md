@@ -2,6 +2,10 @@
 <h3 align="center">Tôi là 2 cột ăng-ten của chị Pamela Hải Đường</h3>
 
 <p align="center">
+  <img src="https://i.pinimg.com/736x/30/ab/f9/30abf90da554112a78b24cde1037a968.jpg" alt="Bùi Quang Trường" width="200" />
+</p>
+
+<p align="center">
   <a href="https://twitter.com/maura2112" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/maura2112" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
   <a href="https://instagram.com/maura.2112" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>

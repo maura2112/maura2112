@@ -12,7 +12,7 @@
 <a href="https://twitter.com/maura2112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maura2112" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/maura2112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="maura2112" height="30" width="40" /></a>
 <a href="https://instagram.com/maura.2112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maura.2112" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@khanhdaongoc4636" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@khanhdaongoc4636" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCA24eKHHb_jIVzDyhyQp2RA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@khanhdaongoc4636" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

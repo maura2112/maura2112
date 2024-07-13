@@ -8,18 +8,11 @@
   <a href="https://www.youtube.com/channel/UCA24eKHHb_jIVzDyhyQp2RA" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 </p>
 
-<table>
-  <tr>
-    <td>
-      - 🌱 I’m currently learning **.NET, Unity, Java**<br>
-      - 📫 How to reach me **championlc97@gmail.com**<br>
-      - ⚡ Fun fact **improvise until improve**
-    </td>
-    <td>
-      <img src="https://i.pinimg.com/736x/30/ab/f9/30abf90da554112a78b24cde1037a968.jpg" alt="Bùi Quang Trường" width="200" />
-    </td>
-  </tr>
-</table>
+- 🌱 I’m currently learning **.NET, Unity, Java**
+
+- 📫 How to reach me **championlc97@gmail.com**
+
+- ⚡ Fun fact **improvise until improve**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

@@ -2,7 +2,7 @@
 <h3 align="center">Tôi là 2 cột ăng-ten của chị Pamela Hải Đường</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/30/ab/f9/30abf90da554112a78b24cde1037a968.jpg" alt="Bùi Quang Trường" width="200" />
+  <img src="https://i.pinimg.com/736x/30/ab/f9/30abf90da554112a78b24cde1037a968.jpg" alt="Bùi Quang Trường" width="300" />
 </p>
 
 <p align="center">

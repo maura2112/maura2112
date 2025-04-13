@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **championlc97@gmail.com**
 
-- ⚡ Fun fact **improvise until improve**
+- ⚡ Fun fact **improvise until improve** and **hair holds memories**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -26,4 +26,6 @@
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/SeleniumHQ/selenium/main/common/src/web/images/logos/Selenium_Logo.png" alt="Selenium" width="40" height="40"/>
+  <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="40" height="40"/>
 </p>

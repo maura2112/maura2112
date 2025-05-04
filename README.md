@@ -8,7 +8,7 @@
   <a href="https://www.youtube.com/channel/UCA24eKHHb_jIVzDyhyQp2RA" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 </p>
 
-- 🌱 I’m currently learning **.NET, Unity, Java**
+- 🌱 I’m currently learning **.NET, Unity, Automation Test**
 
 - 📫 How to reach me **championlc97@gmail.com**
 
